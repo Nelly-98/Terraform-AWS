@@ -1,6 +1,6 @@
 # Terraform-AWS
 
-![]()
+![](https://github.com/Nelly-98/Terraform-AWS/blob/main/tp_final.png)
 
 ## Contexte et objectif
 
