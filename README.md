@@ -19,4 +19,4 @@ Voici les éléments nécéssaires que compose l'architecture :
 
 Bonus : configurez un accès sécurisé HTTPS (port 443 TLS) à votre serveur Web.
 
-![](Screenshot 2024-02-23 at 02.47.44)
+![](https://github.com/Nelly-98/Terraform-AWS/blob/main/Screenshot%202024-02-23%20at%2002.47.44.png)
